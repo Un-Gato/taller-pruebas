@@ -1,5 +1,6 @@
 # taller-pruebas
 Prueba para aprender a usar git hub
 ## Contenidos
-- poner varios archivos
+- Poner varios archivos
 - de distintas extensiones
+[link al repositorio de introducción a git](https://github.com/juan-pineda/get-intro)
